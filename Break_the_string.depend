@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1597166413 source:d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597052165 d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\unity\unity.h
+	"unity_internals.h"
+
+1597052165 d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597155138 source:d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\main.c
+	"test_string.h"
+
+1597127791 d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\test\test_string.h
+
+1597166184 source:d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\src\breakstring.c
+	"String_header.h"
+
+1597165045 d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\inc\string_header.h
+	<stdio.h>
+	<string.h>
+
+1597206740 source:d:\ltts_preonboarding\c programming and unit test\activity\miniproject_template-master\example_programs\break_the_string\test\test_string.c
+	"unity.h"
+	"String_header.h"
+
